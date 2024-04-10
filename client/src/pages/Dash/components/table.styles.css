@@ -1,0 +1,23 @@
+th {
+  text-align: left;
+  font-weight: 700;
+  padding: 1em 2em 1em 2em;
+}
+td {
+  padding: 1em 2em 1em 2em;
+}
+.priority-low {
+  background-color: #608afe;
+}
+
+.priority-medium {
+  background-color: #94d9ff;
+}
+
+.priority-high {
+  background-color: #fba48c;
+}
+
+.priority-critical {
+  background-color: #11deb9;
+}

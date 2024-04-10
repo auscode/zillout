@@ -1,0 +1,10 @@
+.deck1 {
+  display: flex;
+  flex-direction: row;
+}
+/* .section1 {
+    
+} */
+.section2 {
+  width: 1/3;
+}
